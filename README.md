@@ -1,3 +1,3 @@
 # Revelio
-RowdyHacks Thonk-a-thon
-Only use menu.py
+RowdyHacks Hack-a-thon
+Only use menu.py (in client folder)
